@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cee0942601d74055b92f29cb8c4f6fee/artifacts
+end_time: 1757422441081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cee0942601d74055b92f29cb8c4f6fee
+run_name: capable-stork-612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757422440895
+status: 3
+tags: []
+user_id: giris

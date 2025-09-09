@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/75d2ec04f7c246cb86435468104111d3/artifacts
+end_time: 1757422297063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75d2ec04f7c246cb86435468104111d3
+run_name: gaudy-grouse-98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757422296945
+status: 3
+tags: []
+user_id: giris

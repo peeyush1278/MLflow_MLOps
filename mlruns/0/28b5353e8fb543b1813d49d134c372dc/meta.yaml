@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/28b5353e8fb543b1813d49d134c372dc/artifacts
+end_time: 1757422357512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28b5353e8fb543b1813d49d134c372dc
+run_name: abundant-fawn-787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757422357338
+status: 3
+tags: []
+user_id: giris
