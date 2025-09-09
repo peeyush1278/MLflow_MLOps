@@ -27,7 +27,7 @@ with mlflow.start_run():
     accuracy=accuracy_score(y_test,y_pred)
 
     mlflow.log_metric('accuracy', accuracy)
-    mlflow.log_metric('max_depth', max_depth)
-    mlflow.log_metric('n_estimator', n_estimator)
+    mlflow.log_param('max_depth', max_depth)
+    mlflow.log_param('n_estimator', n_estimator)
 
     print(accuracy)
